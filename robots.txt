@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-3r77rl.trans88.online/sitemap.xml
